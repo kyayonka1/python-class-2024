@@ -8,3 +8,9 @@ def Age():
     print(Name(), age)
    
 Age()
+
+def function():
+    pass
+
+def function2()
+    print("not empty")
