@@ -1,6 +1,6 @@
 try:
     # code that may raise an error
-    result =10 / 2 # This will raise a ZeroDivisionError
+    result =10 / 0 # This will raise a ZeroDivisionError
 except ZeroDivisionError:
     # code to handle the specific error (ZeroDivisionError in this case)4
     print("Error: Division by zero occurred!")
@@ -20,7 +20,7 @@ image_path = 'image.jpg'
 
 
 # Open the image file in binary mode and read its contents
-with open('appended_image.jpg', 'wb') as new_image_file
+with open('appended_image.jpg', 'tomatoes') as new_image_file
     new_image_file.write(image_data)
 
 def add(num1,num2)
