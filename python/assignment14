@@ -1,8 +1,0 @@
-try:
-    # code that may raise an error
-    result = 10 / 2
-except ZeroDivisionError:
-    # code to handle the specific error (ZeroDivisionError in this case)
-else:
-    # code to execute if no exception occurs
-    print("Result:", result)

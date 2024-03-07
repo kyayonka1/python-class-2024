@@ -44,5 +44,4 @@ def read_from_file(filename):
             else:
                 print("Invalid choice. Please try again.")
 
-    if _ _ name _ _ = "_ _main_ _"
-        main()
+    

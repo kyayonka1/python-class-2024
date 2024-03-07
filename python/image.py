@@ -11,3 +11,4 @@ with open(image_path, 'rb') as image_file:
 # For example, you can write it to a new file
 with open('appended_image.jpg', 'wb') as new_image_file:
     new_image_file.write(image_data)
+    
